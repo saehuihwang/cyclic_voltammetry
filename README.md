@@ -18,7 +18,7 @@ Below are some examples of duck plots with varying parameters such as scan rate 
 ### App & User Interface 
 To run the app, run 
 
-  `bokeh serve --show c_app.py`
+  `bokeh serve --show cv_app.py`
   
 On the command line.   
 The following user interface will show, displaying the scan rate adjusting sliders and a plotting interface 
