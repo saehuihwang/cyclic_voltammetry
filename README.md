@@ -11,7 +11,7 @@ The Randles-Sevcik equation can be used to extract useful information about the 
 
 Below are some examples of duck plots with varying parameters such as scan rate and concentration. 
 
-<img src="https://github.com/saehuihwang/cyclic_voltammetry/blob/main/media/scan_rate.png" width=700">
+<img src="https://github.com/saehuihwang/cyclic_voltammetry/blob/main/media/scan_rate.png" width="700">
 <img src="https://github.com/saehuihwang/cyclic_voltammetry/blob/main/media/unknown_conc_calibration.png" width="700">
 
 
